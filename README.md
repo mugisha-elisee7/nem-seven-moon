@@ -1,2 +1,3 @@
-funny
-try# nem-seven-moon
+learn
+
+# nem-seven-moon
